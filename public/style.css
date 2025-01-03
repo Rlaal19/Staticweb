@@ -27,7 +27,7 @@
     width: 100%;
     height: 100%;
     /* https://images.squarespace-cdn.com/content/v1/58c0c62bd2b8574cf9ae84f9/1567428181221-FM63MS2E7BA9V2XPBRWB/image-asset.jpeg */
-    background-image:url(https://s.isanook.com/tr/0/ui/286/1431641/143100373_3673417986072798_135310698339401879_n.jpg) ;
+    background-image:url(https://images.unsplash.com/photo-1548679847-1d4ff48016c7?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y2xlYW4lMjB3YWxscGFwZXJ8ZW58MHx8MHx8fDA%3D) ;
     z-index: -1;
     background-size: cover;
     background-position: center;
@@ -114,20 +114,20 @@ nav {
     position: relative;
 }
 .bg1{
-    background-image: url(https://www.chillpainai.com/src/wewakeup/scoop/images/fbc1f32c84072f600be5440ae3236f85c845d186.jpg);
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/1/12/%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%A2%E0%B8%B5%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%A5%E0%B8%94%E0%B8%B2_Chitralada_Technology_Institute.jpg);
 }
 .bg2{
-    background-image: url(https://assets.traveltriangle.com/blog/wp-content/uploads/2016/07/twilight-pattaya-1-The-building-and-skyscrapers-in-twilight-time-in-Pattaya-Copy.jpg);
+    background-image: url(https://scontent.fbkk29-7.fna.fbcdn.net/v/t39.30808-1/329426718_2044381425750423_8831949512657936324_n.jpg?stp=dst-jpg_s480x480_tt6&_nc_cat=108&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeG8ngu8pAL4fqE3hWkdnsLmXrnAgvtDiQpeucCC-0OJCtShqD9Uz4lLZP7JjCETZyZ7TH3z0H2vWntSt7DLP6rD&_nc_ohc=B3F473ieqA0Q7kNvgGtEap0&_nc_oc=AdiAEVeoIluA4OMgAUV_EZoDUW4pt19PTy-28_xO50TBKnGRyx728jn8g8xM_7I3eBo&_nc_zt=24&_nc_ht=scontent.fbkk29-7.fna&_nc_gid=AedGY2DIpsSmdBjPBGwlI53&oh=00_AYAeYNEuV-_WY8oFSJMtG78SK-Y5X3Gx_jGldl_nC6X2zg&oe=677D96F5);
 }
 .bg3{
-    background-image: url(https://img.wongnai.com/p/1920x0/2020/08/21/61c3877e32314c4d86ed462d2fb499d7.jpg);
+    background-image: url(https://www.cdti.ac.th/wp-content/uploads/2023/06/Prof.-Dr.-Wara-Warawit.png);
 }
 .bg4{
-    background-image: url(https://s.isanook.com/tr/0/rp/r/w850/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL3RyLzAvdWQvMjgxLzE0MDU4MDEva3kuanBn.jpg);
+    background-image: url(https://scontent.fbkk29-7.fna.fbcdn.net/v/t39.30808-6/468394271_3866515950291486_9141618796065657986_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFx69dEsQWgtuGMix9DwWnf0xhfbH-j3x3TGF9sf6PfHXxMNYj046b3rmQ8U1UK2IBXL6sH2TzMmWcDvsESf8_d&_nc_ohc=8wIlW6WZB-kQ7kNvgG2yBvQ&_nc_oc=Adjr5XuwAhShrKtc6AqU6Qmv3flRPhniOGPWhCo_iMIg3ODmJX075G4T0cSWxDYyP5s&_nc_zt=23&_nc_ht=scontent.fbkk29-7.fna&_nc_gid=AGm6fbmpNsjmoBhyiibmZj4&oh=00_AYAO0d50BXvGPNhzbY8fM-PuwBYlP_Om8cYJTVSB6WBi_A&oe=677D9905);
 }
 .content .box h2{
-    position: absolute;
-    bottom: 180px;
+    position:absolute;
+    bottom: 10px;
     left: 20px;
     color: rgb(255, 255, 255);
 }
